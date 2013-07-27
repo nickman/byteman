@@ -1,5 +1,10 @@
 Byteman README
 --------------
+This fork of byteman implements a JMX management layer which
+supports the installation and removal of scripts through
+the JMX api, additional jmx remoting support functions and a 
+management interfaces for individual installed rules.
+
 
 Byteman supports injection of side effects into Java programs for the
 purpose of tracing and testing application behaviour.
